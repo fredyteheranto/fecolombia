@@ -16,9 +16,9 @@ var args = {
       "tem:documento": "FACT01"
    }
 };
-fecolombia.createClient(url, function (err, client) {
-   client.EstadoDocumento(args, function (err, result) {
-     console.log(result.EstadoDocumentoResult.cufe);
+fecolombia.createClient(url, function (err, dian) {
+   dian.EstadoDocumento(args, function (err, respuesta) {
+     console.log(respuesta.EstadoDocumentoResult.cufe);
    });
 
 });
