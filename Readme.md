@@ -1,4 +1,4 @@
-# Libreria Soap para FActuracion electronica Colombia [DIAN]
+# Libreria Soap para Facturación electronica Colombia [DIAN]
 
 > Un cliente y servidor SOAP para node.js.
 
