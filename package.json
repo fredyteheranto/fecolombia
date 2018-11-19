@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/fecolombia/-/fecolombia-0.27.0.tgz",
+  "_resolved": "https://registry.npmjs.org/fecolombia/-/fecolombia-0.28.0.tgz",
   "_shasum": "deda92e1454e77ac942033cb7ca18b88f57b0abf",
   "_spec": "soap",
   "_where": "/Users/fredyteheranto/Documents/adn30/FE",
@@ -28,7 +28,7 @@
     "email": "fredyteheran91@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/fredyteheran/fecolombia/issues"
+    "url": "https://github.com/fredyteheranto/fecolombia/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -73,7 +73,7 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "homepage": "https://github.com/fredyteheran/fecolombia#readme",
+  "homepage": "https://github.com/fredyteheranto/fecolombia#readme",
   "keywords": [
     "fecolombia"
   ],
@@ -82,7 +82,7 @@
   "name": "fecolombia",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fredyteheran/fecolombia.git"
+    "url": "git+https://github.com/fredyteheranto/fecolombia.git"
   },
   "scripts": {
     "cover": "nyc --reporter=lcov --reporter=html --reporter=text mocha --exit test/*-test.js test/security/*.js",
@@ -92,5 +92,5 @@
     "toc": "doctoc Readme.md --github --maxlevel 3"
   },
   "types": "./lib/soap.d.ts",
-  "version": "0.27.0"
+  "version": "0.28.0"
 }
