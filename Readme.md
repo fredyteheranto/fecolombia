@@ -18,7 +18,7 @@ var args = {
 };
 fecolombia.createClient(url, function (err, dian) {
    dian.EstadoDocumento(args, function (err, respuesta) {
-     console.log(respuesta.EstadoDocumentoResult.cufe);
+     //console.log(respuesta.EstadoDocumentoResult.cufe);
    });
 
 });
