@@ -44,7 +44,7 @@
     "serve-static": "^1.11.1",
     "strip-bom": "~0.3.1",
     "uuid": "^3.1.0",
-    "xml-crypto": "~0.8.0"
+    "xml-crypto": "~2.0.0"
   },
   "deprecated": false,
   "description": "Metodo SOAP para facturacion electronica colombia Formato DIAN ",
